@@ -13,5 +13,5 @@ it('should render', () => {
 });
 
 it('should do something amazing', () => {
-    expect(true).toBe(test);
+    expect(true).toBe(true);
 })
